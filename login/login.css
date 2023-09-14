@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #C44FEB;
+}
+
+.login-form {
+  width: 300px;
+  border : 0;
+  border-radius: 5px;
+  background-color: #F9E5FF;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.text-field {
+  font-size: 14px;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  width: 100%;
+}
+
+.submit-btn {
+  color: #EEEFF1;
+  font-size: 14px;
+  background-color: #C44FEB;
+  margin-bottom: 30px;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  width: 100%;
+}
+
+.links {
+  text-align: center;
+}
+
+.links a {
+  font-size: 12px;
+  color: #9b9b9b
+}
